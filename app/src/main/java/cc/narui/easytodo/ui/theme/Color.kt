@@ -1,4 +1,4 @@
-package com.example.easytodo.ui.theme
+package cc.narui.easytodo.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

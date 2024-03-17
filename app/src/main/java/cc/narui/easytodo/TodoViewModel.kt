@@ -1,4 +1,4 @@
-package com.example.easytodo
+package cc.narui.easytodo
 
 import android.app.Application
 import android.content.Context
@@ -6,7 +6,6 @@ import android.content.SharedPreferences
 import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.AndroidViewModel
-import androidx.lifecycle.ViewModel
 
 
 class TodoViewModel( application: Application) : AndroidViewModel(application) {

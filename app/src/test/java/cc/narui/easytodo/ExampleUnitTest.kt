@@ -1,4 +1,4 @@
-package com.example.easytodo
+package cc.narui.easytodo
 
 import org.junit.Test
 

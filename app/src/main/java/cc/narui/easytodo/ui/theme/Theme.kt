@@ -1,4 +1,4 @@
-package com.example.easytodo.ui.theme
+package cc.narui.easytodo.ui.theme
 
 import android.app.Activity
 import android.os.Build
