@@ -4,15 +4,15 @@ plugins {
 }
 
 android {
-    namespace = "com.example.easytodo"
+    namespace = "cc.narui.easytodo"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.easytodo"
+        applicationId = "cc.narui.easytodo"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
-        versionName = "1.0"
+        versionName = "0.0.1-release"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
